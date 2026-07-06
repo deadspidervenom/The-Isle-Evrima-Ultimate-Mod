@@ -101,4 +101,4 @@ Sharing your source doesn't mean exposing things that would put your server at r
 
 Replace these with placeholders (e.g. `YOUR_SERVER_IP`, `<REDACTED>`) before sharing. The *code and logic* needs to stay open — your personal server's attack surface doesn't. This is standard practice across open source projects and isn't a violation of AGPL; the license covers the software itself, not your private configuration/secrets.
 
-This isn't legal advice — if you need certainty on a specific use case, consult the [full AGPL-3.0 text](https://www.gnu.org/licenses/agpl-3.0.en.html) or a legal professional.
+This isn't legal advice — if you need certainty on a specific use case, consult the [full AGPL-3.0 text](https://github.com/deadspidervenom/The-Isle-Evrima-Ultimate-Mod/blob/main/LICENSE) or a legal professional.
