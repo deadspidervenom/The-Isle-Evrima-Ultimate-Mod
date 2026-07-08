@@ -3,8 +3,10 @@ This file is a non-fancy progress report one what is being worked on, what is do
 The intent is just to have something to post until the mod is at a stage i feel is ready to release.
 
 These posts will be vague to keep various methods a secret until they are protected on the AGPL-3.0 license
+
 ---------------------------------
 7/8/2026 ~ Big first report
+---------------------------------
 
 Got ahold of a friend and did some testing, i confirmed that the auto-linking is almost complete. I made the oversight of forgetting that computers and routers need portforwarding, so while i did confirm that it SHOULD be functioning(by mistake of all things). I need to add port forwarding to the mumble plugin to make it actually work.
 
@@ -19,4 +21,5 @@ After all that is said and done, ill be re-coding the dino restore function. Fir
 Once i get all of the "working on" code fixed and ready, i will be adding in the dino save and load feature since most of the ground work will be done thanks to the admin dino restore. That will also come with a companion app, the graphics for it won't be anything special, but it will work.
 
 After that i will release the 1.0 of the code here, along with instructional materials.
+
 ---------------------------------
