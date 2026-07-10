@@ -23,3 +23,27 @@ Once i get all of the "working on" code fixed and ready, i will be adding in the
 After that i will release the 1.0 of the code here, along with instructional materials.
 
 ---------------------------------
+7/10/2026 ~ R&D plus some groundwork
+---------------------------------
+
+i did some testing and research as i was still waking up when i wrote the last update. When i woke up more i realized "it cant be a portforwarding issue im the host not my friend" so to not just go with what i assumed first i did some research and confirm it was likely a windows firewall issue.
+
+As such going forward i will be bundling a install and unistall bat file with the source and release version of the mumble plugin. This install(and uninstall but in reverse) bat simply moves the plugin into the plugin folder and allows mumble (the plugin goes through mumble in this situation) through the firewall on the needed port. Of course the uninstall reverts this.
+
+The reason i chose a bat instead of an EXE was for piece of mind of people using this project. They can see EXACTLY what the install is doing and why. They do not need coding knowledge to see understand.
+
+Outside of fixing that issue (hopefully) i did some other work.
+
+I've sectioned off some of the features to be able to toggle them (was not orginally in the code due to scope changes). I also made all options config and offsets not hard coded for the server mod.
+
+From there i did a bit of groundwork to finish up the rest of the features. The current list of "working on" features are pretty close to done. the voip only needs testing to confirm it is done, the auto-linking is half almost done, with the other half being worked on now. The first half that is almost done needs testing still but once confirm done the focus will be on finishing up the auto-link. 
+
+After i finish the autolinking i want to get the chat logger working. The main reason is just to have all features that are "in progress" with actual functioning code completed. Then i can R&D the admin dino restore feature know full well the rest of the features are functioning, so if i break anything during R&D i can fix it.
+
+During that time i will also be making a basic companion app to use with the admin features. Which is another reason i am saving it for last. As there is a lot i want to include in the companion app functionally wise. Visually it will be very basic though.
+
+Once all features are built and tested, i will clean up the code for any loose dead ends, make instructional documents, do some minor improvements via including a few public libraries that are okay to use with this projects license. Then release V1 of the plugin source.
+
+After that i will begin work on the other potential features. I hope everyone watching this project stays patient with me. This project while slow to develop is because i like quality and i want to make sure when i release this it functions as close to what i want as it can get.
+
+---------------------------------
