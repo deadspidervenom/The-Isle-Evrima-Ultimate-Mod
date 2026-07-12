@@ -47,3 +47,31 @@ Once all features are built and tested, i will clean up the code for any loose d
 After that i will begin work on the other potential features. I hope everyone watching this project stays patient with me. This project while slow to develop is because i like quality and i want to make sure when i release this it functions as close to what i want as it can get.
 
 ---------------------------------
+7/12/2026 ~ Plan changes
+---------------------------------
+
+So as i was working to finish building the rest of the main features. I realized i needed to get the chat logger working before i could do part of it. So i got that working, then during that i realized some of the features i had been working on would be better suited to be done via the companion app. So i have started work on the start of that.
+
+Meaning right now the current progress of the "working on" was put on hold till the companion app is functional. I did however figureout a way to improve the VOIP audio. I am still missing 1 piece of information from making it perfect, however i tried my best to find that and i believe it is not update server side.
+
+For the companion app i am also intergrating a admin panel system into it. As well as a primitive anti-cheat. Don't worry it wont effect performance the anti-cheats purpose is to simply log when something weird happens and reject data or attempts from it. The admin will have to manually review cheating attempt and punish if they believe it was the case.
+
+Due to companion apps need to be developed some systems will be developed early, though bare bones. Namely the point system and affiliate system. Why those 2? For points it was an easy to add in, and made it so we did not need place holder GUI elements involving it. Plus it makes intgration easier for future features. For the affiliate system, it originally was not gonna be added since i did not know if the gui i was thinking of using for this project was gonna work with a web based things. However turns out it handles it fine, so it will be added in.
+
+Currently how points will work is there will only be 2 ways to earn points on initial release of this mod, play time and watch time. I plan to configure it so you can adjust how much each content creator earns you for watch time independantly. The main reason behind that choice is because i wanted to add in more platform compatibility.
+
+Outside of that the main things that will be functional will mostly be admin stuff. I'll be adding a full admin suite, you will have access to rcon, logs, config options, edits of player data and ect. All of it will be remote as well, so you wont need to be at the PC the server is hosted on.
+
+Now you may ask what about security? Everything is handled on the server end of things. I wont go into details till the mod is released, but the server will know who is connecting, and if the data you can't spoof or use to be someone else does not match any existing user or admin(depending on what you are trying to do), any data you try to use or do gets dropped and you info is logged.
+
+Just keep in mind just because a user gets logged as suspicious does not mean they are 100% cheating, there can be cases where something looks like cheating via a log but turns out not to be. So any logs you find investiage. There will be an error code that gets posted if someone does try to cheat. If they dont know better they will post it.
+
+Outside of that most of the companion app will be just a shell of "TBA" and such. That does mean every feature i plan to add will have a tab for when it does get added, but for now its static.
+
+On a side note the recent game updates have been infuriating due to manually needing to update the offsets 3 times now. Thought the most recent update was odd since none of the offsets i use got changed. Not even the main ones even though the base offset was different.
+
+I will also be adding in external libraries to hopefully future proof and optimimize the code for very large servers. More so since this mod will be very heavy on what it does server side.
+
+Lastly before i go i have started work on updating my reference docs as well as putting together instructional docs. So as soon as all the working on features are complete i can post everything and begin working on other features.
+
+---------------------------------
