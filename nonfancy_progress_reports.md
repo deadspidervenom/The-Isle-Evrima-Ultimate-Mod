@@ -75,3 +75,19 @@ I will also be adding in external libraries to hopefully future proof and optimi
 Lastly before i go i have started work on updating my reference docs as well as putting together instructional docs. So as soon as all the working on features are complete i can post everything and begin working on other features.
 
 ---------------------------------
+7/15/2026 ~ Not much to report
+---------------------------------
+
+I am making this just to update with something. The Companion app is taking longer then i thought, mostly due to time constraints and how much is needed to make sure this is a quality i can accept.
+
+Currently i got a barebones app made, it can connect to the server, get credentials and reuse them, track suspicious activity(people attempting to cheat or spoof info), and thats about it.
+
+Most of the work was on the game server side of things. Making the credentials system, the suspicious activity logs, clearing logs that were false flags, and connecting the companion server into the rest of the mod to streamline some stuff.
+
+Now that most of the corner stone stuff is done, all thats really left of the planned stuff for the app before going back to adding in the "working on" features, Is mostly TBA panels, admin panels to make my life easier, the skeleton of the points system, and the affiliate system.
+
+After that ill begin work on the "working on" items, i first need to rework the plan a bit (to account for the companion app) but aftwards the rest should go up fairly fast.
+
+One thing i may work on adding is stuff for sending in game chat messages. Thanks to diplomatic-tendencies over on their [github](https://github.com/diplomatic-tendencies/evrima-dev-knowledge) i was able to learn why my methods of sending messages kept crashing the server. Please feel free to check their github out if you want to try making your own ue4ss based mod.
+
+---------------------------------
