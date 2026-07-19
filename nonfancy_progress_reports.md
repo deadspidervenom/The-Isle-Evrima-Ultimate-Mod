@@ -91,3 +91,15 @@ After that ill begin work on the "working on" items, i first need to rework the 
 One thing i may work on adding is stuff for sending in game chat messages. Thanks to diplomatic-tendencies over on their [github](https://github.com/diplomatic-tendencies/evrima-dev-knowledge) i was able to learn why my methods of sending messages kept crashing the server. Please feel free to check their github out if you want to try making your own ue4ss based mod.
 
 ---------------------------------
+7/19/2026 ~ Not much to report 2
+---------------------------------
+
+So ive taken a bit of a step back from the mod, not stopped just to be clear. Just a breather, i was working on it non-stop and needed a bit of a break. So i while i still work on it its not nearly as much as i work on other projects.
+
+That and an annoying crash started happening with the companion app, so progress was delayed until i added logging (which had not been present till now). With the logging now added and getting my first log on what the heck is crashing the app, i can finally start moving forward with the app. The crash was part of the reason i decided to take a breather on active development, it was frustrating me to no end. So i decided to cool my head with other projects while slowing down work on it. Which helped in the end.
+
+I apologized that this is taking so long. I never intended it to take this long, its a mix of putting a lot on my plate and wanting to make sure its a quality i'd be proud to sell if i wanted (i am not, but i still wanted to put that effort into it for everyone).
+
+I hope you look forward to the release of the mod.
+
+---------------------------------
