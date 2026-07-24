@@ -26,14 +26,15 @@ The goal is to let the community shape this mod before the code is set in stone.
 
 ### ✅ Implemented (Fully)
 
-Nothing yet. Most "Working On" items are close to complete — pending testing, bug fixes, or refinement.
+- Detailed chat logger
 
 ### 🔧 Working On
 
-- Advanced Mumble-based VOIP (positional audio)
-- Auto-linking between Mumble and the game server
-- Admin dino restore function (for rule-breaking / dino griefing)
-- Detailed chat logger
+- Advanced Mumble-based VOIP (positional audio) ~ Needs live audio testing for "Ready for release" state
+- Auto-linking between Mumble and the game server ~ Needs a few adjustments to make it more server agnostic
+- Admin dino restore function (for rule-breaking / dino griefing) ~ concept is there and potential functions are found, need function testing as well as playtesting.
+- Point system based on gameplay ~ Playtime section added and watching affliciates to be added fro first release.
+- Admin tools for moderation ~ parts of this will be added in for the full release since the app needed to be made
 
 ### 📋 Planned
 
@@ -43,9 +44,7 @@ Nothing yet. Most "Working On" items are close to complete — pending testing, 
 - Skin color system
 - Prime tracker
 - Mutation tracker
-- Map auto-update with dynamic info, including heatmaps
-- Point system based on gameplay
-- Admin tools for moderation
+- Map auto-update with dynamic info, including heatmaps ~ have a base project i am looking at possibly using to get this started.
 - Admin tools for events
 - QOL and utility features across various aspects
 
