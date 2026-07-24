@@ -33,7 +33,7 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Advanced Mumble-based VOIP (positional audio) ~ Needs live audio testing for "Ready for release" state
 - Auto-linking between Mumble and the game server ~ Needs a few adjustments to make it more server agnostic
 - Admin dino restore function (for rule-breaking / dino griefing) ~ concept is there and potential functions are found, need function testing as well as playtesting.
-- Point system based on gameplay ~ Playtime section added and watching affliciates to be added fro first release.
+- Point system based on gameplay ~ Playtime section added and watching affliciates to be added for first release.
 - Admin tools for moderation ~ parts of this will be added in for the full release since the app needed to be made
 
 ### 📋 Planned
