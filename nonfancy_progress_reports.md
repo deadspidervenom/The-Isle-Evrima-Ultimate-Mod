@@ -103,3 +103,19 @@ I apologize that this is taking so long. I never intended it to take this long, 
 I hope you look forward to the release of the mod.
 
 ---------------------------------
+7/24/2026 ~ System adjustments
+---------------------------------
+
+I got the crash bug for the app fixed, and started to finish up work on it. Currently i've built a basic point system, proper play time tracking, and started work on the affiliate panel.
+
+For the playtime that took a bit a math to make sure it was fair, essentially what i did was track the users playtime, and every time points get given it does a bunch of math to confirm how many "point based play time" intverals are available, and awards based on that. Meaning they get the right amount of points for how long they have played based on what you set. So if you set it to once an hour, then decide to adjust it to once every 10 minutes. Any unpaid playtime will net the user points. Yes it does keep track of the time that was paid. So users don't double dip.
+
+What this also means is if you have your own playtime tracker for your server, you can auto-pay users by manually setting their playtime they already have, and it will automatically give them the points they should have earned for it.
+
+I got a few bugs, gui oversights, and such to fix. However once those are clean i can keep working on adding in full fuctionality to those features.
+
+Once the app is settled enough to finish the server features i have planned, i will begin work on the finishing up the rest of the promised stuff for the first release. Which should not be much longer. More so since i am feeling a lot better mentally now since i stepped back to work on other projects (if you watch my account you will se a minecraft mod i ported).
+
+The project is moving forward, and should start speeding up. More so since the last 1-2 weeks i have put my focus mostly on the minecraft mod port and another project ive been doing with my father to spend time with him and because the work is kinda fun.
+
+---------------------------------
