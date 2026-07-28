@@ -119,3 +119,13 @@ Once the app is settled enough to finish the server features i have planned, i w
 The project is moving forward, and should start speeding up. More so since the last 1-2 weeks i have put my focus mostly on the minecraft mod port and another project ive been doing with my father to spend time with him and because the work is kinda fun.
 
 ---------------------------------
+7/27/2026 ~ Project Adjustments
+---------------------------------
+So the content creator section of the app took longer then expected. I went into it not know how to let users login and chat with streams they are watching, which ended up making me completely adjust how i was doing things. I got it working, but ended up adding another field for server owners to have to configure.
+
+Outside of that i have done some polishing to the look, made some adjustments to a few things, and added in 1 of many admin only editables.
+
+I got more i want added to the companion app before i start focused work back on the mod itself, namely admin edit tools, log watchers, and content creator update tools (let content creators update stream link and such, since youtube can be annoying with that). However once those are done, i can finally work on the rest of the mod additions with the companion app secondary side additions.
+
+I will note i decided to do one more thing before release and that is add in proper mysql support. Currently all player data is stored in physical files, which is fine for testing but on a live running server you may want a mysql database for most data storage.
+---------------------------------
