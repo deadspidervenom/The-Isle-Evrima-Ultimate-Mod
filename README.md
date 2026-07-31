@@ -27,14 +27,17 @@ The goal is to let the community shape this mod before the code is set in stone.
 ### ✅ Implemented (Fully)
 
 - Detailed chat logger
+- Point system based on gameplay ~ Playtime section added and watching affiliates added
+- Twitch and Google oauth (secrets handled server side) for chatting with streamers
+- Content Creator self service for stream link updates
+- Content Creators tab with watch time tracker, points earned tracker, and such.
 
 ### 🔧 Working On
 
 - Advanced Mumble-based VOIP (positional audio) ~ Needs live audio testing for "Ready for release" state
 - Auto-linking between Mumble and the game server ~ Needs a few adjustments to make it more server agnostic
 - Admin dino restore function (for rule-breaking / dino griefing) ~ concept is there and potential functions are found, need function testing as well as playtesting.
-- Point system based on gameplay ~ Playtime section added and watching affliciates to be added for first release.
-- Admin tools for moderation ~ parts of this will be added in for the full release since the app needed to be made
+- Admin tools for moderation ~ Currently added; Points add and remove, content creator remove addition, removal, and updates. A few more to be added for release
 
 ### 📋 Planned
 
@@ -47,6 +50,7 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Map auto-update with dynamic info, including heatmaps ~ have a base project i am looking at possibly using to get this started.
 - Admin tools for events
 - QOL and utility features across various aspects
+- Points based on in game events
 
 ### 🚫 Currently Unplanned
 
