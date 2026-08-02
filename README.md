@@ -25,16 +25,18 @@ The goal is to let the community shape this mod before the code is set in stone.
 ## Feature Roadmap
 
 ### ✅ Implemented (Fully)
-
+### Server Mod ~ Edits focused more on the server mod
 - Detailed chat logger
-- Point system based on gameplay ~ Playtime section added and watching affiliates added
-- Twitch and Google oauth (secrets handled server side) for chatting with streamers
-- Content Creator self service for stream link updates
+### Companion APP ~ Edits focused more on the companion app
 - Content Creators tab with watch time tracker, points earned tracker, and such.
 - Admin tools for moderation ~ Currently added; Remove logs viewers, Points player management, remote mod config and affiliate manager.
 - Companion app + mumble firewall exceptions install if needed
 - Mumble Plugin easy install
 - Companion app dark/light mod + minimize to tray
+- Content Creator self service for stream link updates
+- Twitch and Google oauth (secrets handled server side) for chatting with streamers
+### Both ~ Edits that were equal parts server and companion app
+- Point system based on gameplay ~ Playtime section added and watching affiliates added
 
 ### 🔧 Working On
 
