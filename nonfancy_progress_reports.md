@@ -131,3 +131,11 @@ I got more i want added to the companion app before i start focused work back on
 I will note i decided to do one more thing before release and that is add in proper mysql support. Currently all player data is stored in physical files, which is fine for testing but on a live running server you may want a mysql database for most data storage.
 
 ---------------------------------
+7/27/2026 ~ Companion APP "done"
+---------------------------------
+
+So i have finished primary work on the companion APP. So what does that mean? Well i have swapped focus from working on the companion app to working on the actual mod features. I am taking a small detour from my initial roadmap i had to work on dino restore functionality. As that will be the basis for dino saving and loading, as well as custom skins and other such features.
+
+From their i will finish up work on the mumble plugin features, make some minor adjusts to the companion app, then there will be the initial release of the mod. I think i will be releasing the mod a with the VOIP untested, as i can't seem to get anyone i trust to help me test the mod. Either due to the lack of the game or the lack of actually wanting too. I will keep looking, i might jump onto a server and see if another player i like will help me test it before release.
+
+---------------------------------
