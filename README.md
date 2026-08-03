@@ -35,6 +35,7 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Companion app dark/light mod + minimize to tray
 - Content Creator self service for stream link updates
 - Twitch and Google oauth (secrets handled server side) for chatting with streamers
+- Admin tools for moderation
 ### Both ~ Edits that were equal parts server and companion app
 - Point system based on gameplay ~ Playtime section added and watching affiliates added
 
@@ -43,7 +44,6 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Advanced Mumble-based VOIP (positional audio) ~ Needs live audio testing for "Ready for release" state
 - Auto-linking between Mumble and the game server ~ Needs a few adjustments to make it more server agnostic
 - Admin dino restore function (for rule-breaking / dino griefing) ~ concept is there and potential functions are found, need function testing as well as playtesting.
-- Admin tools for moderation ~ Currently missing; RCON
 ### 📋 Planned
 
 - Dino meal time — auto-spawning food sources during high-traffic hours to prevent scarce food from killing baby dinos
