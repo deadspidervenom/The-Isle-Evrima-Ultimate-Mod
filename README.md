@@ -1,3 +1,6 @@
+#Disclaimer = With recent game update i may abandon this mod due to being unable to test it anymore (without risking a vac ban) due to game dev decisions. If that occurs this entire github will be reworked and the current project as it stands will be uploaded as source. Plus all reference docs and everything. Unfiltered and uncensored. Do with it what you will at that point. If the devs fix the bug(if its a bug) or reverses their decisions to hide modded servers from their unofficial server list, i will delete this section and keep working on the mods development.
+
+
 # The Ultimate Mod
 
 > A server-side, standalone mod project — independent from UE4SS.
