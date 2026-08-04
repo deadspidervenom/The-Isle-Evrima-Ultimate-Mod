@@ -31,7 +31,7 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Detailed chat logger
 ### Companion APP ~ Edits focused more on the companion app
 - Content Creators tab with watch time tracker, points earned tracker, and such.
-- Admin tools for moderation ~ Currently added; Remove logs viewers, Points player management, remote mod config and affiliate manager.
+- Admin tools for moderation ~ Currently added; log viewers, Points player management, remote mod config and affiliate manager.
 - Companion app + mumble firewall exceptions install if needed
 - Mumble Plugin easy install
 - Companion app dark/light mod + minimize to tray
