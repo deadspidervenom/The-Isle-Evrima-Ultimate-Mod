@@ -1,5 +1,4 @@
-# previous disclaimer is removed. The devs made it required that port 80 on a dedicated server need to be open and free to have it show up on the server list. Which i have so many words for it is beyond what i can say online. Development continues.
-
+# previous disclaimer is removed. I dont know what is going on, everything i test gets consistent results until it does not.
 # The Ultimate Mod
 
 > A server-side, standalone mod project — independent from UE4SS.
