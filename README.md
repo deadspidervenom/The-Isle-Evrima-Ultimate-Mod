@@ -1,5 +1,4 @@
-#Disclaimer = With recent game update i may abandon this mod due to being unable to test it anymore (without risking a vac ban) due to game dev decisions. If that occurs this entire github will be reworked and the current project as it stands will be uploaded as source. Plus all reference docs and everything. Unfiltered and uncensored. Do with it what you will at that point. If the devs fix the bug(if its a bug) or reverses their decisions to hide modded servers from their unofficial server list, i will delete this section and keep working on the mods development.
-
+# previous disclaimer is removed. The devs made it required that port 80 on a dedicated server need to be open and free to have it show up on the server list. Which i have so many words for it is beyond what i can say online. Development continues.
 
 # The Ultimate Mod
 
@@ -46,7 +45,8 @@ The goal is to let the community shape this mod before the code is set in stone.
 
 - Advanced Mumble-based VOIP (positional audio) ~ Needs live audio testing for "Ready for release" state
 - Auto-linking between Mumble and the game server ~ Needs a few adjustments to make it more server agnostic
-- Admin dino restore function (for rule-breaking / dino griefing) ~ concept is there and potential functions are found, need function testing as well as playtesting.
+- Admin dino restore function (for rule-breaking / dino griefing) ~ Confirmed i can save all dino data 1 to 1, now to try and use that data.
+
 ### 📋 Planned
 
 - Dino meal time — auto-spawning food sources during high-traffic hours to prevent scarce food from killing baby dinos
