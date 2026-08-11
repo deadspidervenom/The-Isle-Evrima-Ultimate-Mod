@@ -1,4 +1,3 @@
-# previous disclaimer is removed. I dont know what is going on, everything i test gets consistent results until it does not.
 # The Ultimate Mod
 
 > A server-side, standalone mod project — independent from UE4SS.
