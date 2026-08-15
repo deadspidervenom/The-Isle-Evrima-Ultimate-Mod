@@ -43,7 +43,7 @@ The goal is to let the community shape this mod before the code is set in stone.
 
 - Advanced Mumble-based VOIP (positional audio) ~ Needs live audio testing for "Ready for release" state
 - Auto-linking between Mumble and the game server ~ Needs a few adjustments to make it more server agnostic
-- Admin dino restore function (for rule-breaking / dino griefing) ~ Confirmed i can save all dino data 1 to 1, now to try and use that data.
+- Admin dino restore function (for rule-breaking / dino griefing) ~ Accurately able to record and edit dino data, now just loading the dino data live.
 
 ### 📋 Planned
 
