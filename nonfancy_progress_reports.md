@@ -139,3 +139,9 @@ So i have finished primary work on the companion APP. So what does that mean? We
 From their i will finish up work on the mumble plugin features, make some minor adjusts to the companion app, then there will be the initial release of the mod. I think i will be releasing the mod a with the VOIP untested, as i can't seem to get anyone i trust to help me test the mod. Either due to the lack of the game or the lack of actually wanting too. I will keep looking, i might jump onto a server and see if another player i like will help me test it before release.
 
 ---------------------------------
+8/15/2026 ~ Slowdown
+---------------------------------
+
+Progress is still moving, i just hit a bit of a wall. I am able to perfectly record player data to do the restore, so restores can happen down to the smallest details. However i am struggling with actually doing said restore. I have a few leads on how to do it, so its just going through each method testing and trying to make work. Once that is done and wired up, i know i said i would wait on dino storage, but i figured as an apology for how long it is taking i would include it since the wiring is already all there, among other things.
+
+---------------------------------
