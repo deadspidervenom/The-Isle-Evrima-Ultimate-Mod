@@ -145,3 +145,11 @@ From their i will finish up work on the mumble plugin features, make some minor 
 Progress is still moving, i just hit a bit of a wall. I am able to perfectly record player data to do the restore, so restores can happen down to the smallest details. However i am struggling with actually doing said restore. I have a few leads on how to do it, so its just going through each method testing and trying to make work. Once that is done and wired up, i know i said i would wait on dino storage, but i figured as an apology for how long it is taking i would include it since the wiring is already all there, among other things.
 
 ---------------------------------
+8/16/2026 ~ ITS ALIVE
+---------------------------------
+
+Took a bit of trial and error but i got dino restoring working, not just a simple restore either all data for you dino all at once. I need to do some clean up and some adjustments, however its working.
+
+Once the code clean up is done, i am gonna quickly wire up the dino related features, then get to work on finishing the rest of the items for release!
+
+---------------------------------
