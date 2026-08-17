@@ -38,21 +38,22 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Admin tools for moderation
 ### Both ~ Edits that were equal parts server and companion app
 - Point system based on gameplay ~ Playtime section added and watching affiliates added
+- Admin dino restore function (for rule-breaking / dino griefing) ~ Able to fully restore and edit dino data on said restore. This lets you revert damage from rule breaking.
 
 ### 🔧 Working On
 
 - Advanced Mumble-based VOIP (positional audio) ~ Needs live audio testing for "Ready for release" state
 - Auto-linking between Mumble and the game server ~ Needs a few adjustments to make it more server agnostic
-- Admin dino restore function (for rule-breaking / dino griefing) ~ Accurately able to record and edit dino data, now just loading the dino data live.
+- Dino storage and loading
+- Skin color system
+- Prime tracker
+- Mutation tracker
+- Point shop for dino storage slots and custom skins
 
 ### 📋 Planned
 
 - Dino meal time — auto-spawning food sources during high-traffic hours to prevent scarce food from killing baby dinos
 - Notification system for various events
-- Dino storage and loading
-- Skin color system
-- Prime tracker
-- Mutation tracker
 - Map auto-update with dynamic info, including heatmaps ~ have a base project i am looking at possibly using to get this started.
 - Admin tools for events
 - QOL and utility features across various aspects
