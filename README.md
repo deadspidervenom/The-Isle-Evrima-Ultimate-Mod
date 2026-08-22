@@ -36,8 +36,16 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Content Creator self service for stream link updates
 - Twitch and Google oauth (secrets handled server side) for chatting with streamers
 - Admin tools for moderation
-- Prime tracker
-- Mutation tracker
+- Dead dino tracker ~ Lets players keep track of their deaths, get various info on their dead dino, and save favorite dinos. What is shown is in account info list besides 'Vitals'.
+- Account info ~ While it has been there in part since the companion app was built, it now is feature complete with the addition of an active dino tracker. Bellow items are what is tracked. All of it is viewable while not in game if you are linked. So you can check the state of you dino while offline.
+  - Prime tracker 
+  - Mutation tracker ~ for special requirement mutations
+  - Active mutations
+  - Vitals ~ various stats directly about your dino
+  - Summary ~ misc content such as mate name, ancestors, a copy ready skin code, and growth
+  - Nutrients
+  - Negative Effects ~ Tracker for if you have fractures or what not.
+  - How you Died ~ currently not setup but on account info it will just show "Alive" and on dead dinos it will let you know how you died (if trackable).
 ### Both ~ Edits that were equal parts server and companion app
 - Point system based on gameplay ~ Playtime section added and watching affiliates added
 - Admin dino restore function (for rule-breaking / dino griefing) ~ Able to fully restore and edit dino data on said restore. This lets you revert damage from rule breaking.
