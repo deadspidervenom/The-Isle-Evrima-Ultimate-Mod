@@ -37,7 +37,7 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Twitch and Google oauth (secrets handled server side) for chatting with streamers
 - Admin tools for moderation
 - Dead dino tracker ~ Lets players keep track of their deaths, get various info on their dead dino, and save favorite dinos. What is shown is in account info list besides 'Vitals'.
-- Account info ~ While it has been there in part since the companion app was built, it now is feature complete with the addition of an active dino tracker. Bellow items are what is tracked. All of it is viewable while not in game if you are linked. So you can check the state of you dino while offline.
+- Account info ~ While it has been there in part since the companion app was built, it now is feature complete with the addition of an active dino tracker. Below items are what is tracked. All of it is viewable while not in game if you are linked. So you can check the state of you dino while offline.
   - Prime tracker 
   - Mutation tracker ~ for special requirement mutations
   - Active mutations ~ Mutations you have unlocked and are in use.
