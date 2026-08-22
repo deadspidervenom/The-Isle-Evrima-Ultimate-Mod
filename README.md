@@ -36,6 +36,8 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Content Creator self service for stream link updates
 - Twitch and Google oauth (secrets handled server side) for chatting with streamers
 - Admin tools for moderation
+- Prime tracker
+- Mutation tracker
 ### Both ~ Edits that were equal parts server and companion app
 - Point system based on gameplay ~ Playtime section added and watching affiliates added
 - Admin dino restore function (for rule-breaking / dino griefing) ~ Able to fully restore and edit dino data on said restore. This lets you revert damage from rule breaking.
@@ -46,8 +48,6 @@ The goal is to let the community shape this mod before the code is set in stone.
 - Auto-linking between Mumble and the game server ~ Needs a few adjustments to make it more server agnostic
 - Dino storage and loading
 - Skin color system
-- Prime tracker
-- Mutation tracker
 - Point shop for dino storage slots and custom skins
 
 ### 📋 Planned
