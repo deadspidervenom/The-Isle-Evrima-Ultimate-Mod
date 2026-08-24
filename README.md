@@ -49,12 +49,12 @@ The goal is to let the community shape this mod before the code is set in stone.
 ### Both ~ Edits that were equal parts server and companion app
 - Point system based on gameplay ~ Playtime section added and watching affiliates added
 - Admin dino restore function (for rule-breaking / dino griefing) ~ Able to fully restore and edit dino data on said restore. This lets you revert damage from rule breaking.
+- Dino storage and loading ~ Needs a bit of polishing but it is functioning
 
 ### 🔧 Working On
 
 - Advanced Mumble-based VOIP (positional audio) ~ Needs live audio testing for "Ready for release" state
 - Auto-linking between Mumble and the game server ~ Needs a few adjustments to make it more server agnostic
-- Dino storage and loading
 - Skin color system
 - Point shop for dino storage slots and custom skins
 
