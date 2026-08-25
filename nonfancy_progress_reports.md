@@ -153,3 +153,20 @@ Took a bit of trial and error but i got dino restoring working, not just a simpl
 Once the code clean up is done, i am gonna quickly wire up the dino related features, then get to work on finishing the rest of the items for release!
 
 ---------------------------------
+8/25/2026 ~ Long time no update
+---------------------------------
+So i have not made much in way of updates here, mainly because there was not much to update on, and i was pre-occupied with other projects.
+
+Currently Admin restore is fully functioning. Admins can view any dead, stored, or active dinos history for any player. Then choose a dino, the restore point, and then before they restore they can modify the dinos stats to correct any damages or errors. Finally restoring the dino. This require the person to be on a live dino.
+
+Dino storage is also setup, storing a dino sends you to the respawn dino select screen. Once spawned in you can press "load" and it will load up a stored dino in all it stats. Including position. As a added bonus i made it so players can rename their stored dino for personal reference as well as view their stored dinos stats in case they can't remember based on name alone.
+
+Prime Tracker and Mutation tracker added in to "account info" as well as various stats for the actively played dino. Now players can not only track their prime, but see their active mutations and their unlocked mutations. You can also copy your dino skincode for sharing.
+
+Dead dinos page was added, this is a simple log page for players. It keep 1 off snapshots of dinos they died as. Letting them favorite to prevent auto-deletion, rename to timestamp a fun or good build, or just view some of the dinos information.You can also copy the dead dinos skincode for sharing.
+
+Next up ill be adding in the shop, then working on adding in skins. After both are done ill finish up some of the mumble and server linking stuff i have put off.
+
+After all that i need to see if i can find someone to test the VOIP with me, during which time i will be working on adding in smaller features like "map", kill feed, and a handful of admin features. Though these things will only be released if they are completed before i test and potentially fix VOIP. Once it is ready any feature not yet complete will be for a later update.
+
+---------------------------------
