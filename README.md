@@ -6,6 +6,8 @@
 
 This repository currently serves as a **project shell**. There's no source code here yet. Once the project reaches an acceptable state — or if it's abandoned — the full source will be uploaded here.
 
+[Discord](https://discord.gg/dAUp9E6CdD)
+
 ## Why a shell repo?
 
 The goal is to let the community shape this mod before the code is set in stone. Open an issue with a feature you'd like to see, and it'll be reviewed to determine:
