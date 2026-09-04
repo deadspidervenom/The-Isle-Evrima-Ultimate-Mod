@@ -170,3 +170,13 @@ Next up ill be adding in the shop, then working on adding in skins. After both a
 After all that i need to see if i can find someone to test the VOIP with me, during which time i will be working on adding in smaller features like "map", kill feed, and a handful of admin features. Though these things will only be released if they are completed before i test and potentially fix VOIP. Once it is ready any feature not yet complete will be for a later update.
 
 ---------------------------------
+9/4/2026 ~ Mapping oh boy
+---------------------------------
+
+So this one has been a lot more work then i thought it would be. The initial work for getting the tracking done was easy. What has been hard is getting live zones mapped and functioning cleanly. Like sure i could just draw each zone location, but with 82 zones that a lot of which overlap, that becomes a confusing mess. So i have been color coding it, tracking if a zone is active or not, if you dino can even use the zone, and other such things. Its mostly done just need to get the polish done on what is made to be good. Whats left feature wise is just the heatmap.
+
+After the map is done, ill be doing a quick catch up on various admin and other minor companion app features, as well as double checking and minor amounts of optimizing. Then it will be finishing the linking work, and seeing if i can hunt down someone i trust to help me test the MP stuff i can't test solo.
+
+I know i added a lot more to this for the first release then i originally had in mind, but one thing let to another and it kinda became "well i can do this now, and there is no point in waiting with how simple it is to add".
+
+---------------------------------
